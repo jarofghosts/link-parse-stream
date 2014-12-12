@@ -1,6 +1,9 @@
 link-parse-stream
 =================
 
+[![Build Status](http://img.shields.io/travis/jarofghosts/link-parse-stream.svg?style=flat)](https://travis-ci.org/jarofghosts/link-parse-stream)
+[![npm install](http://img.shields.io/npm/dm/link-parse-stream.svg?style=flat)](https://www.npmjs.org/package/link-parse-stream)
+
 a streaming parser for http link header format
 
 ## example
