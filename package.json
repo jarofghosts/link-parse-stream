@@ -1,6 +1,6 @@
 {
   "name": "link-parse-stream",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "streaming http link parser",
   "main": "index.js",
   "scripts": {
