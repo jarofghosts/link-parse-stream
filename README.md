@@ -17,7 +17,7 @@ request('http://some-resource-with-link.headers', function(err, res) {
   }
 
   res.pipe(linkParser()).on('data', function(data) {
-    console.log(data) // {href: 'http://whatever.herpderp', rel='iunno'}
+    console.log(data) // {href: 'http://whatever.herpderp', rel: 'iunno'}
   })
 })
 ```
