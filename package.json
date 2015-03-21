@@ -23,12 +23,12 @@
   },
   "homepage": "https://github.com/jarofghosts/link-parse-stream",
   "dependencies": {
-    "duplexer": "^0.1.1",
+    "duplexify": "^3.2.0",
     "http-link": "^0.3.0",
     "split": "^0.3.2",
-    "through": "^2.3.6"
+    "through2": "^0.6.3"
   },
   "devDependencies": {
-    "tape": "^3.0.3"
+    "tape": "^3.5.0"
   }
 }
